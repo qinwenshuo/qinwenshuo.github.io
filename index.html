@@ -22,8 +22,8 @@
 		height: 100%;
 }
 
-	#screen1{background:url(images/1.jpg);}
-	#screen2{background:url(images/2.jpg);}
+	#screen1{background:url(images/1.webp);}
+	#screen2{background:url(images/2.webp);}
 	#IR{
 		width: 100%;
 		position:absolute;
@@ -66,33 +66,33 @@
 	#button1{ top: 125%; left: -65%;width: 25%; height: 30%;}
 	#button1 div::before{content: "";}
 	#button1 div::after{content: "Hangzhou";}
-	#button1:before{background-image: url('./images/Hangzhou.jpg');}
+	#button1:before{background-image: url('./images/Hangzhou.webp');}
 
 
 	#button2{top: 125%; left: 0%;width: 25%;height: 30%;}
 	#button2 div::before{content: "";}
 	#button2 div::after{content: "Hong Kong";}
-	#button2:before{background-image: url('./images/HongKong.jpg');}
+	#button2:before{background-image: url('./images/HongKong.webp');}
 
 	#button3{top: 125%; left: 65%;width: 25%;height: 30%;}
 	#button3 div::before{content: "";}
 	#button3 div::after{content: "Shanghai";}
-	#button3:before{background-image: url('./images/Shanghai.jpg');}
+	#button3:before{background-image: url('./images/Shanghai.webp');}
 
 	#button4{top: 160%; left: 0%;width: 25%;height: 30%;}
 	#button4 div::before{content: "";}
 	#button4 div::after{content: "Suzhou";}
-	#button4:before{background-image: url('./images/Suzhou.jpg');}
+	#button4:before{background-image: url('./images/Suzhou.webp');}
 
 	#button5{top: 160%; left: 65%;width: 25%;height: 30%;}
 	#button5 div::before{content: "";}
 	#button5 div::after{content: "Beijing";}
-	#button5:before{background-image: url('./images/Beijing.jpg');}
+	#button5:before{background-image: url('./images/Beijing.webp');}
 
 	#button6{top: 160%; left: -65%;width: 25%;height: 30%;}
 	#button6 div::before{content: "";}
 	#button6 div::after{content: "Los Angeles";}
-	#button6:before{background-image: url('./images/LosAngeles.jpg');}
+	#button6:before{background-image: url('./images/LosAngeles.webp');}
 
 	</style>
 
@@ -112,7 +112,7 @@
 				I have traveled several places.
 				This is my first web, designed for sharing my memorable high school experience</p>
 			<div id="self"><img src="./images/图片1.png"/></div>
-			<img src="images/1.jpg"/>
+			<img src="images/1.webp"/>
 			<button id="button1" onclick="window.location.href='./Hangzhou.html'">
 				<div></div>
 			</button>
@@ -163,9 +163,9 @@
 		function loadimages(i){
 			if (i>num) return false;
 			var img = new Image();
-			img.src="images/"+i+".jpg";
+			img.src="images/"+i+".webp";
 			img.onload=function(){
-				var html = '<div class="screen" id="screen-'+i+'"><img src="images/'+i+'.jpg"/></div>';
+				var html = '<div class="screen" id="screen-'+i+'"><img src="images/'+i+'.webp"/></div>';
 				$("#content").append(html);
 				$.cxycs.screenscroll.opts.screens.push("#screen-"+i);
 				return loadimages(i+1);
