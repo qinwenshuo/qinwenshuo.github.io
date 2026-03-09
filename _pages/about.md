@@ -16,13 +16,14 @@ Outside of research, I enjoy playing video games 🎮, watching movies 🎬, hik
 Major Updates
 ---
 🔥 11/2025 - My [preprint](https://arxiv.org/abs/2511.03988) on 3D representation for social AI was out.  
-🔥 08/2025 - I presented a [poster](files/2025CCN_poster.pdf) on relational social AI at CCN.  
+🔥 08/2025 - I presented a [poster](files/2025CCN_wenshuo.pdf) on relational social AI at CCN.  
 🔥 07/2025 - I presented a [talk](https://underline.io/events/489/sessions/20513/lecture/118540-relational-information-predicts-human-behavior-and-neural-responses-to-complex-social-scenes?notificationId=22459) on relational social AI at CogSci.  
-🔥 07/2025 - A [poster](https://underline.io/events/489/posters/20440/poster/119371-studying-cross-linguistic-structural-transfer-in-second-language-learning) on native language identification was presented at CogSci.  
-🔥 05/2025 - I presented a [poster](files/2025VSS_poster) on relational social AI at VSS.  
+🔥 07/2025 - A [poster](files/2025CogSci_liu) on native language identification was presented at CogSci.  
+🔥 05/2025 - I presented a [poster](files/2025VSS_wenshuo) on relational social AI at VSS.  
+🔥 09/2024 - A [poster](files/2024AMLaP_wei) on second language acquisition was presented at AMLaP.  
 🔥 05/2024 - I graduated from BC with an hornor and was awarded Phi Beta Kappa!  
 🔥 03/2023 - I was named a Dean's Scholar at BC!
 
 Mentorship
 ---
-As a first-generation college student, I am deeply grateful for the mentorship of my amazing advisors and the support of my peers throughout my academic journey. If you are exploring PhD or research assistant opportunities in related fields across the US and have questions or are seeking support, please feel free to reach out to me. I am excited to know you!
+As a first-generation college student, I am deeply grateful for the mentorship of my amazing advisors and the support of my peers throughout my academic journey. Please feel free to reach out to me if you have questions exploring similar PhD or RA opportunities across the US.
