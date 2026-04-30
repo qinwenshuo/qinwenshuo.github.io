@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+*:not(.fa):not(.fas):not(.fab):not(.far):not(.fal) {
+  font-family: 'Open Sans', sans-serif !important;
+}
+*::before,
+*::after {
+  font-family: inherit;
+}
+body {
+  background-color: #023020;
+  color: #fff !important;
+}
+a {
+  color: #fff !important;
+}
+p,
+li,
+span {
+  color: #fff !important;
+  font-weight: 600 !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff !important;
+  font-weight: 700 !important;
+}
+.social-icons .fa,
+.social-icons .fas,
+.social-icons .fab {
+  color: #fff !important;
+}
+.side-card {
+  opacity: 1 !important;
+}
+.author-avatar img {
+  max-width: 160px !important;
+}
+#page_footer {
+  background-color: #023020 !important;
+  border-top: none !important;
+  color: #fff !important;
+}
+#page_footer a {
+  color: #fff !important;
+}
