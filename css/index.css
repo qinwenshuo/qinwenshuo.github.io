@@ -11,6 +11,13 @@ body {
   color: #fff !important;
 }
 a {
+  color: #63b3ed !important;
+}
+#blog_name a,
+.menus_items a,
+.author-links a,
+.social-links a,
+.e-social-link {
   color: #fff !important;
 }
 p,
