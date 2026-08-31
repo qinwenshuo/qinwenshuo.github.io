@@ -7,23 +7,23 @@
   font-family: inherit;
 }
 body {
-  background-color: #023020;
-  color: #fff !important;
+  background-color: #2c2832;
+  color: #f5f3f7 !important;
 }
 a {
-  color: #63b3ed !important;
+  color: #b79ce0 !important;
 }
 #blog_name a,
 .menus_items a,
 .author-links a,
 .social-links a,
 .e-social-link {
-  color: #fff !important;
+  color: #f7f6f6 !important;
 }
 p,
 li,
 span {
-  color: #fff !important;
+  color: #f7f5f5 !important;
   font-weight: 600 !important;
 }
 h1,
@@ -32,13 +32,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #fff !important;
+  color: #f7f4f4 !important;
   font-weight: 700 !important;
 }
 .social-icons .fa,
 .social-icons .fas,
 .social-icons .fab {
-  color: #fff !important;
+  color: #f7f6f6 !important;
 }
 .side-card {
   opacity: 1 !important;
@@ -47,12 +47,12 @@ h6 {
   max-width: 160px !important;
 }
 #page_footer {
-  background-color: #023020 !important;
+  background-color: #211e27 !important;
   border-top: none !important;
-  color: #fff !important;
+  color: #f5f3f7 !important;
 }
 #page_footer a {
-  color: #fff !important;
+  color: #b79ce0 !important;
 }
 .page pre,
 .page .highlight {
