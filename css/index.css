@@ -54,6 +54,11 @@ h6 {
 #page_footer a {
   color: #b79ce0 !important;
 }
+.author-discrip .author-name-zh {
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  margin: 0.4rem 0 0 !important;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
